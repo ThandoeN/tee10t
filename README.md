@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thando
-- 👀 I’m interested in machine learning, data science ,health
-- 🌱 I’m currently learning Applied data science using Python
+- 👀 I’m interested in software development machine learning, data science ,health
+- 🌱 I’m currently learning Machine learning with Stanford
 - 💞️ I’m looking to collaborate on any technical project
 - 📫 How to reach me .. thando10ngwabi@gmail.com
 
