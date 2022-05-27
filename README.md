@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thando
-- 👀 I’m interested in software development machine learning, data science ,health
-- 🌱 I’m currently learning Machine learning with Stanford
+- 👀 I’m interested in software development machine learning, java, health informatics
+- 🌱 I’m currently learning Machine learning with Coursera
 - 💞️ I’m looking to collaborate on any technical project
 - 📫 How to reach me .. thando10ngwabi@gmail.com
 
